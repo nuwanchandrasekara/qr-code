@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+div {
+   background: #fff;
+   /* border: 1px solid #000; */
+   border-radius: 15px;
+   width: 300px;
+   margin:100px auto;
+   
+}
+
+ img {
+    
+    width: 250px;
+    border-radius: 15px;
+    margin: 20px 0;
+
+}
+.text {
+    background: #fff;
+    font-size: 12px;
+    border-radius: 15px;
+    padding: 10px 0 20px 0;
+}   
+ .bold {
+    background: #fff;
+    font-size: 18px;
+    font-weight: 700;
+}
